@@ -1,0 +1,31 @@
+img{
+    width: 80px;
+}
+body{
+    background: #DBE3E8;
+}
+
+#section{
+    padding-top: 3.5rem;
+}
+.navbar{
+    background:#00c4cc;
+    font-size: larger;
+    font-weight: 400;
+}
+footer{
+    background-color: #fbc512;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #152534;
+}
+input{
+    border-radius: 0.5rem;
+}
+#personajes-nombre{
+    font-size: 20px;
+}
+.spinner-border{
+    width: 2rem; 
+    height: 2rem;
+}
